@@ -13,10 +13,10 @@
 8. Install Visual Studio Code
 9. Intall Git https://github.com/git-guides/install-git
 10. In VS code, install the extensions Git Graph and GitHub Pull Requests and Issues
-11. In VS code, open a new terminal and create a new branch from main an modify your code (git branch <your branch name>)
+11. In VS code, open a new terminal and create a new branch from main an modify your code (git branch your_local_branch_name)
 12. Git add . 
 13. Git commit (and write a nice and structure commit message)
-14. Git push or git push origin <your branch name>:<your branch name>
+14. Git push or git push origin your_local_branch_name:your_remote_branch_name
 15. Go to GitHub.com and check your branch. You can see for how many commits you branch is ahead from main.
 16. You can do a PR into main. Review it and if you are happy with the changes, merge it into main
 17. Go back to VS code. Do git checkout main and then do git pull. You can also do it from Git Graph
