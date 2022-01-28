@@ -20,6 +20,7 @@
 15. Go to GitHub.com and check your branch. You can see for how many commits you branch is ahead from main.
 16. You can do a PR into main. Review it and if you are happy with the changes, merge it into main
 17. Go back to VS code. Do git checkout main and then do git pull. You can also do it from Git Graph
+18. Trying the Server
 
 ### Good practice:
 1. Create a virtual environment for each of your project
